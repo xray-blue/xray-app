@@ -151,18 +151,18 @@
 
   "hand": {
   "AP_PA": {
-    "reference": "https://raw.githubusercontent.com/xray-blue/xray-app/main/images/150846542-clark-s12.jpeg",
-    "xray": "https://raw.githubusercontent.com/xray-blue/xray-app/main/images/150846542-clark-s2.jpeg"
+    "reference": "https://raw.githubusercontent.com/xray-blue/xray-app/main/images/hand/150846542-clark-s12.jpeg",
+    "xray": "https://raw.githubusercontent.com/xray-blue/xray-app/main/images/hand/150846542-clark-s2.jpeg"
   },
 
   "lateral": {
-    "reference": "https://raw.githubusercontent.com/xray-blue/xray-app/main/images/lat.jpeg",
-    "xray": "https://raw.githubusercontent.com/xray-blue/xray-app/main/images/lat2.jpeg"
+    "reference": "https://raw.githubusercontent.com/xray-blue/xray-app/main/images/hand/lat.jpeg",
+    "xray": "https://raw.githubusercontent.com/xray-blue/xray-app/main/images/hand/lat2.jpeg"
   },
 
   "oblique": {
-    "reference": "https://raw.githubusercontent.com/xray-blue/xray-app/main/images/obli.jpeg",
-    "xray": "https://raw.githubusercontent.com/xray-blue/xray-app/main/images/oblique.jpeg"
+    "reference": "https://raw.githubusercontent.com/xray-blue/xray-app/main/images/hand/obli.jpeg",
+    "xray": "https://raw.githubusercontent.com/xray-blue/xray-app/main/images/hand/oblique.jpeg"
   }
   },
 
