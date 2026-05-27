@@ -1,0 +1,286 @@
+{
+  "skull": {
+    "AP_PA": {
+      "reference": "https://raw.githubusercontent.com/xray-blue/xrayfordrrafal/main/images/Sinuses-Face-PA-2.jpg",
+      "xray": "https://raw.githubusercontent.com/xray-blue/xrayfordrrafal/main/images/a1c1be7c45cd57d3e0119254de41b3_big_gallery.jpg"
+    },
+    "lateral": {
+      "reference": "images/skull/lateral_real.jpg",
+      "xray": "images/skull/lateral_xray.jpg"
+    },
+    "oblique": {
+      "reference": "images/skull/oblique_real.jpg",
+      "xray": "images/skull/oblique_xray.jpg"
+    }
+  },
+
+  "cervical_spine": {
+    "AP_PA": {
+      "reference": "images/cervical_spine/ap_pa_real.jpg",
+      "xray": "images/cervical_spine/ap_pa_xray.jpg"
+    },
+    "lateral": {
+      "reference": "images/cervical_spine/lateral_real.jpg",
+      "xray": "images/cervical_spine/lateral_xray.jpg"
+    },
+    "oblique": {
+      "reference": "images/cervical_spine/oblique_real.jpg",
+      "xray": "images/cervical_spine/oblique_xray.jpg"
+    }
+  },
+
+  "shoulder": {
+    "AP_PA": {
+      "reference": "images/shoulder/ap_pa_real.jpg",
+      "xray": "images/shoulder/ap_pa_xray.jpg"
+    },
+    "lateral": {
+      "reference": "images/shoulder/lateral_real.jpg",
+      "xray": "images/shoulder/lateral_xray.jpg"
+    },
+    "oblique": {
+      "reference": "images/shoulder/oblique_real.jpg",
+      "xray": "images/shoulder/oblique_xray.jpg"
+    }
+  },
+
+  "clavicle": {
+    "AP_PA": {
+      "reference": "images/clavicle/ap_pa_real.jpg",
+      "xray": "images/clavicle/ap_pa_xray.jpg"
+    },
+    "lateral": {
+      "reference": "images/clavicle/lateral_real.jpg",
+      "xray": "images/clavicle/lateral_xray.jpg"
+    },
+    "oblique": {
+      "reference": "images/clavicle/oblique_real.jpg",
+      "xray": "images/clavicle/oblique_xray.jpg"
+    }
+  },
+
+  "thoracic_spine": {
+    "AP_PA": {
+      "reference": "images/thoracic_spine/ap_pa_real.jpg",
+      "xray": "images/thoracic_spine/ap_pa_xray.jpg"
+    },
+    "lateral": {
+      "reference": "images/thoracic_spine/lateral_real.jpg",
+      "xray": "images/thoracic_spine/lateral_xray.jpg"
+    },
+    "oblique": {
+      "reference": "images/thoracic_spine/oblique_real.jpg",
+      "xray": "images/thoracic_spine/oblique_xray.jpg"
+    }
+  },
+
+  "lumbar_spine": {
+    "AP_PA": {
+      "reference": "images/lumbar_spine/ap_pa_real.jpg",
+      "xray": "images/lumbar_spine/ap_pa_xray.jpg"
+    },
+    "lateral": {
+      "reference": "images/lumbar_spine/lateral_real.jpg",
+      "xray": "images/lumbar_spine/lateral_xray.jpg"
+    },
+    "oblique": {
+      "reference": "images/lumbar_spine/oblique_real.jpg",
+      "xray": "images/lumbar_spine/oblique_xray.jpg"
+    }
+  },
+
+  "chest": {
+    "AP_PA": {
+      "reference": "images/chest/ap_pa_real.jpg",
+      "xray": "images/chest/ap_pa_xray.jpg"
+    },
+    "lateral": {
+      "reference": "images/chest/lateral_real.jpg",
+      "xray": "images/chest/lateral_xray.jpg"
+    },
+    "oblique": {
+      "reference": "images/chest/oblique_real.jpg",
+      "xray": "images/chest/oblique_xray.jpg"
+    }
+  },
+
+  "arm": {
+    "AP_PA": {
+      "reference": "images/arm/ap_pa_real.jpg",
+      "xray": "images/arm/ap_pa_xray.jpg"
+    },
+    "lateral": {
+      "reference": "images/arm/lateral_real.jpg",
+      "xray": "images/arm/lateral_xray.jpg"
+    },
+    "oblique": {
+      "reference": "images/arm/oblique_real.jpg",
+      "xray": "images/arm/oblique_xray.jpg"
+    }
+  },
+
+  "elbow": {
+    "AP_PA": {
+      "reference": "images/elbow/ap_pa_real.jpg",
+      "xray": "images/elbow/ap_pa_xray.jpg"
+    },
+    "lateral": {
+      "reference": "images/elbow/lateral_real.jpg",
+      "xray": "images/elbow/lateral_xray.jpg"
+    },
+    "oblique": {
+      "reference": "images/elbow/oblique_real.jpg",
+      "xray": "images/elbow/oblique_xray.jpg"
+    }
+  },
+
+  "wrist": {
+    "AP_PA": {
+      "reference": "images/wrist/ap_pa_real.jpg",
+      "xray": "images/wrist/ap_pa_xray.jpg"
+    },
+    "lateral": {
+      "reference": "images/wrist/lateral_real.jpg",
+      "xray": "images/wrist/lateral_xray.jpg"
+    },
+    "oblique": {
+      "reference": "images/wrist/oblique_real.jpg",
+      "xray": "images/wrist/oblique_xray.jpg"
+    }
+  },
+
+  "hand": {
+    "AP_PA": {
+      "reference": "images/hand/ap_pa_real.jpg",
+      "xray": "images/hand/ap_pa_xray.jpg"
+    },
+    "lateral": {
+      "reference": "images/hand/lateral_real.jpg",
+      "xray": "images/hand/lateral_xray.jpg"
+    },
+    "oblique": {
+      "reference": "images/hand/oblique_real.jpg",
+      "xray": "images/hand/oblique_xray.jpg"
+    }
+  },
+
+  "fingers": {
+    "AP_PA": {
+      "reference": "images/fingers/ap_pa_real.jpg",
+      "xray": "images/fingers/ap_pa_xray.jpg"
+    },
+    "lateral": {
+      "reference": "images/fingers/lateral_real.jpg",
+      "xray": "images/fingers/lateral_xray.jpg"
+    },
+    "oblique": {
+      "reference": "images/fingers/oblique_real.jpg",
+      "xray": "images/fingers/oblique_xray.jpg"
+    }
+  },
+
+  "pelvis": {
+    "AP_PA": {
+      "reference": "images/pelvis/ap_pa_real.jpg",
+      "xray": "images/pelvis/ap_pa_xray.jpg"
+    },
+    "lateral": {
+      "reference": "images/pelvis/lateral_real.jpg",
+      "xray": "images/pelvis/lateral_xray.jpg"
+    },
+    "oblique": {
+      "reference": "images/pelvis/oblique_real.jpg",
+      "xray": "images/pelvis/oblique_xray.jpg"
+    }
+  },
+
+  "femur": {
+    "AP_PA": {
+      "reference": "images/femur/ap_pa_real.jpg",
+      "xray": "images/femur/ap_pa_xray.jpg"
+    },
+    "lateral": {
+      "reference": "images/femur/lateral_real.jpg",
+      "xray": "images/femur/lateral_xray.jpg"
+    },
+    "oblique": {
+      "reference": "images/femur/oblique_real.jpg",
+      "xray": "images/femur/oblique_xray.jpg"
+    }
+  },
+
+  "knee": {
+    "AP_PA": {
+      "reference": "images/knee/ap_pa_real.jpg",
+      "xray": "images/knee/ap_pa_xray.jpg"
+    },
+    "lateral": {
+      "reference": "images/knee/lateral_real.jpg",
+      "xray": "images/knee/lateral_xray.jpg"
+    },
+    "oblique": {
+      "reference": "images/knee/oblique_real.jpg",
+      "xray": "images/knee/oblique_xray.jpg"
+    }
+  },
+
+  "tibia_fibula": {
+    "AP_PA": {
+      "reference": "images/tibia_fibula/ap_pa_real.jpg",
+      "xray": "images/tibia_fibula/ap_pa_xray.jpg"
+    },
+    "lateral": {
+      "reference": "images/tibia_fibula/lateral_real.jpg",
+      "xray": "images/tibia_fibula/lateral_xray.jpg"
+    },
+    "oblique": {
+      "reference": "images/tibia_fibula/oblique_real.jpg",
+      "xray": "images/tibia_fibula/oblique_xray.jpg"
+    }
+  },
+
+  "ankle": {
+    "AP_PA": {
+      "reference": "images/ankle/ap_pa_real.jpg",
+      "xray": "images/ankle/ap_pa_xray.jpg"
+    },
+    "lateral": {
+      "reference": "images/ankle/lateral_real.jpg",
+      "xray": "images/ankle/lateral_xray.jpg"
+    },
+    "oblique": {
+      "reference": "images/ankle/oblique_real.jpg",
+      "xray": "images/ankle/oblique_xray.jpg"
+    }
+  },
+
+  "foot": {
+    "AP_PA": {
+      "reference": "images/foot/ap_pa_real.jpg",
+      "xray": "images/foot/ap_pa_xray.jpg"
+    },
+    "lateral": {
+      "reference": "images/foot/lateral_real.jpg",
+      "xray": "images/foot/lateral_xray.jpg"
+    },
+    "oblique": {
+      "reference": "images/foot/oblique_real.jpg",
+      "xray": "images/foot/oblique_xray.jpg"
+    }
+  },
+
+  "coccyx": {
+    "AP_PA": {
+      "reference": "images/coccyx/ap_pa_real.jpg",
+      "xray": "images/coccyx/ap_pa_xray.jpg"
+    },
+    "lateral": {
+      "reference": "images/coccyx/lateral_real.jpg",
+      "xray": "images/coccyx/lateral_xray.jpg"
+    },
+    "oblique": {
+      "reference": "images/coccyx/oblique_real.jpg",
+      "xray": "images/coccyx/oblique_xray.jpg"
+    }
+  }
+}
