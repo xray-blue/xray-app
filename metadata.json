@@ -1,6 +1,0 @@
-{
-  "name": "Radiology Educator",
-  "description": "An interactive X-ray learning viewer and quiz system for medical education.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
