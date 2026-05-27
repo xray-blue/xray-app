@@ -163,16 +163,6 @@
   "oblique": {
     "reference": "https://raw.githubusercontent.com/xray-blue/xray-app/main/images/obli.jpeg",
     "xray": "https://raw.githubusercontent.com/xray-blue/xray-app/main/images/oblique.jpeg"
-  },
-
-  "ball-catchers": {
-    "reference": "https://raw.githubusercontent.com/xray-blue/xray-app/main/images/ball.jpeg",
-    "xray": "https://raw.githubusercontent.com/xray-blue/xray-app/main/images/ball2.jpeg"
-  },
-
-  "both-hands": {
-    "reference": "https://raw.githubusercontent.com/xray-blue/xray-app/main/images/both.jpeg",
-    "xray": "https://raw.githubusercontent.com/xray-blue/xray-app/main/images/bothhand.jpeg"
   }
   },
 
