@@ -150,18 +150,30 @@
   },
 
   "hand": {
-    "AP_PA": {
-      "reference": "images/hand/ap_pa_real.jpg",
-      "xray": "images/hand/ap_pa_xray.jpg"
-    },
-    "lateral": {
-      "reference": "images/hand/lateral_real.jpg",
-      "xray": "images/hand/lateral_xray.jpg"
-    },
-    "oblique": {
-      "reference": "images/hand/oblique_real.jpg",
-      "xray": "images/hand/oblique_xray.jpg"
-    }
+  "AP_PA": {
+    "reference": "https://raw.githubusercontent.com/xray-blue/xray-app/main/images/150846542-clark-s12.jpeg",
+    "xray": "https://raw.githubusercontent.com/xray-blue/xray-app/main/images/150846542-clark-s2.jpeg"
+  },
+
+  "lateral": {
+    "reference": "https://raw.githubusercontent.com/xray-blue/xray-app/main/images/lat.jpeg",
+    "xray": "https://raw.githubusercontent.com/xray-blue/xray-app/main/images/lat2.jpeg"
+  },
+
+  "oblique": {
+    "reference": "https://raw.githubusercontent.com/xray-blue/xray-app/main/images/obli.jpeg",
+    "xray": "https://raw.githubusercontent.com/xray-blue/xray-app/main/images/oblique.jpeg"
+  },
+
+  "ball catcher’s": {
+    "reference": "https://raw.githubusercontent.com/xray-blue/xray-app/main/images/ball.jpeg",
+    "xray": "https://raw.githubusercontent.com/xray-blue/xray-app/main/images/ball2.jpeg"
+  },
+
+  "both hands": {
+    "reference": "https://raw.githubusercontent.com/xray-blue/xray-app/main/images/both.jpeg",
+    "xray": "https://raw.githubusercontent.com/xray-blue/xray-app/main/images/bothhand.jpeg"
+  }
   },
 
   "fingers": {
